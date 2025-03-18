@@ -1,0 +1,42 @@
+[
+  {
+    "ai_tool_id": 1,
+    "tool_name": "ChatGPT-4.0",
+    "company": "OpenAI"
+  },
+  {
+    "ai_tool_id": 2,
+    "tool_name": "Grok 3.0",
+    "company": "xAI"
+  },
+  {
+    "ai_tool_id": 3,
+    "tool_name": "Copilot",
+    "company": "Microsoft"
+  },
+  {
+    "ai_tool_id": 4,
+    "tool_name": "Claude",
+    "company": "Anthropic"
+  },
+  {
+    "ai_tool_id": 5,
+    "tool_name": "Coming Soon...",
+    "company": "Coming Soon..."
+  },
+  {
+    "ai_tool_id": 6,
+    "tool_name": "Coming Soon...",
+    "company": "Coming Soon..."
+  },
+  {
+    "ai_tool_id": 7,
+    "tool_name": "Coming Soon...",
+    "company": "Coming Soon..."
+  },
+  {
+    "ai_tool_id": 8,
+    "tool_name": "Coming Soon...",
+    "company": "Coming Soon..."
+  }
+]

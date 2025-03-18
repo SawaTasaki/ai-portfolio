@@ -1,0 +1,12 @@
+ai_tool_id,tool_name,Company
+1,GPT-4,OpenAI
+2,Claude,Anthropic
+3,Bard,Google
+4,BLOOM,BigScience
+5,T5,Google
+6,LaMDA,Google
+7,XLNet,Google
+8,Ernie,Baidu
+9,DALL·E 2,OpenAI
+10,Stable Diffusion,Stability AI
+11,DreamStudio,Stability AI
